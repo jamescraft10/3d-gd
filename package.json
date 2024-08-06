@@ -1,0 +1,16 @@
+{
+  "name": "gjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@g-js-api/g.js": "^5.0.1"
+  }
+}
