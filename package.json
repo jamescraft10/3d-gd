@@ -1,7 +1,7 @@
 {
-  "name": "gjs",
+  "name": "cube",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "main.js",
   "type": "module",
   "scripts": {
     "build": "node main.js"
@@ -11,6 +11,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@g-js-api/g.js": "^5.0.1"
+    "@g-js-api/g.js": "^5.0.4"
   }
 }

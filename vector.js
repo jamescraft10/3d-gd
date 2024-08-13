@@ -28,3 +28,14 @@ export class vector2 {
         this.cy = counter(this.y);
     }
 }
+
+export class vector3 {
+    constructor(x, y, z) {
+        this.x = x;
+        this.y = y;
+        this.z = z;
+        this.cx = counter(this.x);
+        this.cy = counter(this.y);
+        this.cz = counter(this.z);
+    }
+}
